@@ -17,4 +17,4 @@ I am currently architecting **Fortress Wallet**, a next-generation non-custodial
 ### 🤝 Seeking a Technical Co-Founder
 **I am actively looking for a hardcore Rust/Solana Technical Co-Founder.** If you live and breathe the Solana programming model, understand SVM architecture, and want to build the security layer for the next billion retail users, let's talk. 
 
-📫 **Reach out:** [Link to your Twitter or LinkedIn here]
+📫 **Reach out:** https://www.linkedin.com/in/kartikay-sharma-8b59671aa/
